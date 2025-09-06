@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=YoungSub's%20GitHub&fontSize=50&fontColor=ffffff" />
+  <img
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=waving&fontAlignY=30&color=gradient&height=200&section=header&text=YoungSub's%20GitHub&fontSize=50&fontColor=ffffff" />
 </div>
 
 ## 🎯 About Me
 - 🎓 **한국항공대학교 소프트웨어학과 3학년**
-- 💼 **AI 모델 엔지니어**를 꿈꾸고 있습니다
-- 🔍 **Computer Vision**, 특히 **TOD**(Tiny Object Detection)에 관심이 많아요!
+- 💼 **DevOps/MLOps**를 꿈꾸고 있습니다
 
 ## 💼 Experience
 - 한국항공대학교 공학계열 (2021.03~2021.12)
