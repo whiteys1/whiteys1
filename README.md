@@ -1,35 +1,50 @@
 <div align="center">
   <img
-    width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&fontAlignY=30&color=gradient&height=200&section=header&text=YoungSub's%20GitHub&fontSize=50&fontColor=ffffff" />
+    src="https://capsule-render.vercel.app/api?type=waving&fontAlignY=33&color=gradient&height=200&section=header&text=Hello👋%20I'm%20YoungSub&fontSize=50&fontColor=ffffff" />
 </div>
 
+
 ## 🎯 About Me
-- 🎓 **한국항공대학교 소프트웨어학과 3학년**
-- 💼 **DevOps/MLOps**를 꿈꾸고 있습니다
+- 🎓 **한국항공대학교 소프트웨어학과 3학년**  
+- 💼 **DevOps/MLOps**를 꿈꾸고 있습니다 
+
+
 
 ## 💼 Experience
-- 한국항공대학교 공학계열 (2021.03~2021.12)
-- 한국항공대학교 소프트웨어학과 (2024.03~)
-- KAU 코알라 17기 알고리즘 심화 수료
-- UMC 7기 스프링 챌린저 수료
-- UMC 8기,9기 스프링 파트장 
+- 한국항공대학교 공학계열 (2021.03\~2021.12)  
+- 한국항공대학교 소프트웨어학과 (2024.03\~)  
+- KAU 코알라 17기 알고리즘 심화 수료  
+- UMC 7기 스프링 챌린저 수료  
+- UMC 8기,9기 스프링 파트장  
 
 
-## 🛠 Tech Stack
-**Languages & Frameworks**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+## 🛠️ Tech Stacks  
 
-**DevOps & Infra**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+**🔹 Languages**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>  
 
-**Tools**  
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+**🔹 Frameworks**  
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>  
+
+**🔹 IDE & Tools**  
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>  
+
+**🔹 Infra / DevOps**  
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+## 📊 Stats
+
+### 🔹 Baekjoon Online Judge
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whiteys1)](https://solved.ac/whiteys1)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=whiteys1&theme=warm)
+
+### 🔹 GitHub Stats
+![Youngsub's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiteys1&show_icons=true&theme=tokyonight)
+
+</div>
