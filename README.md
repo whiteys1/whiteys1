@@ -1,6 +1,6 @@
- <div class="header">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=3B82F6&text=YoungSub's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="YoungSub's GitHub">
-    </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=YoungSub's%20GitHub&fontSize=50&fontColor=ffffff" />
+</div>
 
 ## 🎯 About Me
 - 🎓 **한국항공대학교 소프트웨어학과 3학년**
