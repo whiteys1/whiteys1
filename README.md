@@ -4,14 +4,6 @@
     src="https://capsule-render.vercel.app/api?type=waving&fontAlignY=33&color=0:BFDBFE,33:93C5FD,66:60A5FA,100:3B82F6&height=200&section=header&text=Hello👋%20I'm%20YoungSub&fontSize=50&fontColor=ffffff" />
 </div>
 
-
-## 🎯 About Me
-- 🎓 **한국항공대학교 소프트웨어학과**  
-- ☁️ **클라우드 인프라 · DevOps/MLOps**에 관심
-- 🧠 **생성형 AI와 Agent**에 흥미
-- 📚 **백엔드 개발 및 시스템 아키텍처** 학습 중
-
-
 ## 💼 Experience
 - 한국항공대학교 공학계열 (2021.03\~2021.12)  
 - 한국항공대학교 소프트웨어학과 (2024.03\~)  
