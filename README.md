@@ -52,4 +52,4 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=whiteys1&theme=warm)
 
 ### 🔹 GitHub Stats
-![Youngsub's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiteys1&show_icons=true&theme=tokyonight)
+![Youngsub's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=whiteys1&show_icons=true&theme=tokyonight)
