@@ -26,7 +26,9 @@
 
   <!-- 🔹 Frameworks -->
   <strong>Frameworks</strong><br/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logoColor=white"/>
 
 
   <!-- 🔹 IDE & Tools -->
